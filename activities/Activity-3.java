@@ -61,3 +61,6 @@ while(calc) {
             System.out.println("Cálculo não encontrado!");
             break;
     }
+}
+    }
+}
